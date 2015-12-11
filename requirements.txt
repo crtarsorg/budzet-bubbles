@@ -1,0 +1,2 @@
+cyrtranslit==0.2
+pymongo==2.8.0
