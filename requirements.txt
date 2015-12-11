@@ -1,2 +1,4 @@
+Flask==0.10.1
 cyrtranslit==0.2
 pymongo==2.8.0
+Flask-PyMongo==0.3.0
